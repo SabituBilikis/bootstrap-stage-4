@@ -1,0 +1,44 @@
+.hero {
+    margin-top: 100px;
+}
+.hero-text h2 {
+    font-size: 4rem;
+    color: blueviolet;
+}
+
+.hero-text h1{
+    font-size: 4rem;
+    color: rgb(220, 43, 226);
+}
+.hero-text p {
+    margin-top: 40px;
+}
+.hero-text button {
+    background-color: rgb(220, 43, 226);
+    color: azure;
+    margin-top: 40px;
+}
+
+.hero-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.purple{
+    color: blueviolet;
+}
+
+.contact {
+    margin-top: 60px;
+    padding-left: 30px;
+}
+.bg-purple {
+    background-color: blueviolet;
+    color: rgb(186, 189, 192);
+    padding: 40px;
+}
+.btn-violet {
+    background-color: rgb(110, 14, 86);
+    color: rgb(186, 189, 192);
+
+}

@@ -1,0 +1,79 @@
+.hero {
+    margin-top: 100px;
+}
+.hero-text h2 {
+    font-size: 4rem;
+    color: blueviolet;
+}
+
+.hero-text h1{
+    font-size: 4rem;
+    color: rgb(220, 43, 226);
+}
+.hero-text p {
+    margin-top: 40px;
+}
+.hero-text button {
+    background-color: rgb(220, 43, 226);
+    color: azure;
+    margin-top: 40px;
+}
+
+.hero-img img {
+    width: 80%;
+    height: 90%;
+}
+.biodata-table {
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 32px;
+    margin-right: 100px;
+    padding: 40px;
+}
+.biodata-table table {
+    color: aliceblue;
+    width: 30%;
+}
+.head-award th {
+    font-size: 30px;
+    color:blueviolet;
+}
+.head-award td {
+    font-size: 40px;
+    font-weight: 800;
+    color:  rgb(220, 43, 226);
+}
+.purple {
+    color: blueviolet;
+}
+.head-award button {
+    background-color: rgb(220, 43, 226);
+    color: aliceblue;
+}
+.experience {
+    margin-top: 100px;
+}
+.empty {
+    border: 2px solid blueviolet ;
+    
+    
+}
+.btn-violet {
+    background-color: rgb(165, 42, 149);
+    color: aliceblue;
+}
+.img-card {
+    border-radius: 50px !important;
+}
+.card-section {
+    margin-top: 30px;
+}
+.contact {
+    margin-top: 60px;
+    padding-left: 30px;
+}
+.bg-purple {
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 40px;
+}
