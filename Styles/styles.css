@@ -17,17 +17,25 @@
     background-color: rgb(220, 43, 226);
     color: azure;
     margin-top: 40px;
+    margin-bottom: 30px;
 }
 
 .hero-img img {
-    width: 80%;
-    height: 90%;
+    width: 90%;
+    height: 100%;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.biodata-table {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .biodata-table {
     background-color: blueviolet;
     color: aliceblue;
     border-radius: 32px;
-    margin-top: 20px;
+    margin-top: 80px;
+    margin-bottom: 40px;
     margin-right: 100px;
     padding: 40px;
 }
@@ -35,7 +43,11 @@
     color: aliceblue;
     width: 30%;
 }
+.head-award {
+    margin-top: 80px;
+}
 .head-award th {
+    
     font-size: 30px;
     color:blueviolet;
 }
