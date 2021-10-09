@@ -6,6 +6,9 @@
     color: blueviolet;
 }
 
+.hero-text {
+    margin-top: 100px;
+}
 .hero-text h1{
     font-size: 4rem;
     color: rgb(220, 43, 226);
@@ -21,8 +24,8 @@
 }
 
 .hero-img img {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -51,4 +54,19 @@
     background-color: rgb(110, 14, 86);
     color: rgb(186, 189, 192);
 
+}
+
+@media only screen and (max-width: 360px) {
+    
+    .hero-text h2 {
+        font-size: 2rem;
+        color: blueviolet;
+    }
+    
+    .hero-text h1{
+        font-size: 2rem;
+        color: rgb(220, 43, 226);
+    }
+    
+  
 }

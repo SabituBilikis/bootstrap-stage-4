@@ -58,3 +58,17 @@
     color: rgb(186, 189, 192);
     padding: 40px;
 }
+@media only screen and (max-width: 360px) {
+    
+    .hero-text h2 {
+        font-size: 2rem;
+        color: blueviolet;
+    }
+    
+    .hero-text h1{
+        font-size: 2rem;
+        color: rgb(220, 43, 226);
+    }
+    
+  
+}
